@@ -1,2 +1,2 @@
 # thinkful-ios
-My iOS Course with William Hoang by Jesse Russell
+My iOS Swift Course with William Hoang by Jesse Russell
